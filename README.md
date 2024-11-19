@@ -26,7 +26,9 @@ With a solid foundation in programming and a growing passion for **cybersecurity
 ### 📊 GitHub Stats
 
 <div align="center">
+  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jpmamededs&show_icons=true&theme=radical&cache_seconds=1800)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmamededs&layout=compact&theme=radical)
 
 </div>
