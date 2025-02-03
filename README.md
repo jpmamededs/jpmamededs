@@ -27,7 +27,7 @@ With a solid foundation in programming and a growing passion for **cybersecurity
 
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jpmamededs&theme=dark&background=000000)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username={jpmamededs}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmamededs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
