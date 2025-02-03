@@ -27,9 +27,9 @@ With a solid foundation in programming and a growing passion for **cybersecurity
 
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jpmamededs&show_icons=true&theme=radical&cache_seconds=1800)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jpmamededs&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmamededs&layout=compact&theme=radical&cache_seconds=1800)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmamededs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
