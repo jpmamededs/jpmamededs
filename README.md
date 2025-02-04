@@ -27,8 +27,7 @@ With a solid foundation in programming and a growing passion for **cybersecurity
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username={jpmamededs}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jpmamededs&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmamededs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
