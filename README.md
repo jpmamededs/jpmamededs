@@ -2,9 +2,10 @@
 
 ---
 <div align="center">
-### Hit me on LinkedIn and Instagram:
+  
 <a href="https://www.linkedin.com/in/jpmamededs/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/jpmamededs/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+
 </div>
 ---
 
