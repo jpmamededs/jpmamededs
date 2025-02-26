@@ -5,8 +5,6 @@
   <a href="https://www.instagram.com/jpmamededs/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 </div>
----
-
 
 ---
 
