@@ -1,6 +1,4 @@
-~~~
 ![banner](https://github.com/user-attachments/assets/6d3d6bbd-3e1c-4b05-af27-1c1d36a72137)
-~~~
 
 -----
 
