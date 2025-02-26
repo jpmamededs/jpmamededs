@@ -26,11 +26,10 @@
 
 ### 📫 Get in Touch
 
-Feel free to connect with me if you’re interested in discussing **cybersecurity**, **technology**, or potential **collaborative projects**.
+Hit me on LinkedIn:
 
-- [LinkedIn](https://www.linkedin.com)
-- [GitHub](https://github.com)
+<a href="https://www.linkedin.com/in/jpmamededs/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ---
 
-Let’s make the digital world safer together! 🚀
+Pursuiting Cybersecurity until I make it
