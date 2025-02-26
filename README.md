@@ -1,5 +1,13 @@
 ![carbon (2)](https://github.com/user-attachments/assets/59e23be0-6ad8-48ce-b3ec-6ecfbb56d0d2)
 
+---
+<div align="center">
+### Hit me on LinkedIn and Instagram:
+<a href="https://www.linkedin.com/in/jpmamededs/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.instagram.com/jpmamededs/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+</div>
+---
+
 <div align="center">
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,12 +30,6 @@
 
 </div>
 
----
 
-Hit me on LinkedIn and Instagram:
-
-<a href="https://www.linkedin.com/in/jpmamededs/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.instagram.com/jpmamededs/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
----
 
 Pursuiting Cybersecurity until I make it
