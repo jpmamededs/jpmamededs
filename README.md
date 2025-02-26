@@ -1,5 +1,9 @@
 ![carbon (2)](https://github.com/user-attachments/assets/59e23be0-6ad8-48ce-b3ec-6ecfbb56d0d2)
 
+<div align="center">
+  Pursuiting Cybersecurity and Mobile Development
+</div>
+
 ---
 <div align="center">
   
@@ -31,7 +35,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmamededs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-
-
-Pursuiting Cybersecurity until I make it
