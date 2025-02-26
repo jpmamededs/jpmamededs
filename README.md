@@ -1,10 +1,8 @@
-
-![banner](https://github.com/user-attachments/assets/bf1068ac-9f7e-4dbf-a120-5c96e69a457e)
-
 ~~~
-ola
+![banner](https://github.com/user-attachments/assets/6d3d6bbd-3e1c-4b05-af27-1c1d36a72137)
 ~~~
----
+
+-----
 
 ### 🛠️ Tech Stack & Tools I’m proficient with:
 
