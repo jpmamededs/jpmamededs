@@ -1,6 +1,7 @@
 
----![banner](https://github.com/user-attachments/assets/bf1068ac-9f7e-4dbf-a120-5c96e69a457e)
+![banner](https://github.com/user-attachments/assets/bf1068ac-9f7e-4dbf-a120-5c96e69a457e)
 
+---
 
 ### 🛠️ Tech Stack & Tools I’m proficient with:
 
