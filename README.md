@@ -26,6 +26,6 @@
 <div align="center">
   
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jpmamededs&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jpmamededs/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmamededs&layout=compact)
+![Top Langs-](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmamededs&layout=compact&theme=dark#gh-dark-mode-only)
 
 </div>
