@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### DCybersecurity techs I am proficient with
+### Cybersecurity techs I am proficient with
 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white)
