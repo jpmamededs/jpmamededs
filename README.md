@@ -1,6 +1,8 @@
-![](https://komarev.com/ghpvc/?username=jpmamededs&color=blue&style=for-the-badge)
+<div align="center">
+  ![](https://komarev.com/ghpvc/?username=jpmamededs&color=blue&style=for-the-badge)
+  ![carbon (2)](https://github.com/user-attachments/assets/59e23be0-6ad8-48ce-b3ec-6ecfbb56d0d2)
+</div>
 
-![carbon (2)](https://github.com/user-attachments/assets/59e23be0-6ad8-48ce-b3ec-6ecfbb56d0d2)
 <div align="center">
   
   <a href="https://www.linkedin.com/in/jpmamededs/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
