@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=jpmamededs&color=blue&style=for-the-badge)
+
 ![carbon (2)](https://github.com/user-attachments/assets/59e23be0-6ad8-48ce-b3ec-6ecfbb56d0d2)
 <div align="center">
   
@@ -46,6 +48,5 @@
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jpmamededs&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jpmamededs/github-readme-stats#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmamededs&layout=compact&theme=dark&cache_seconds=1800)
 
-![](https://komarev.com/ghpvc/?username=jpmamededs&color=blue&style=for-the-badge)
 
 </div>
