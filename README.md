@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/jpmamededs/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   <a href="https://www.instagram.com/jpmamededs/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
   
-  <img src="https://github.com/user-attachments/assets/8722f919-7c73-4465-9ee6-1b138d5364c5" width="900" alt="carbon">
+  <img src="https://github.com/user-attachments/assets/8722f919-7c73-4465-9ee6-1b138d5364c5" width="500" alt="carbon">
 
 </div>
 
